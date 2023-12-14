@@ -7,7 +7,12 @@
 + Interactive interface with buttons for user input.
 - JavaScript logic for determining the winner based on the game rules.
 
-![Screenshot](/../Screenshot%20from%202023-12-14%2022-42-38.png)
-![Screenshot](/../Screenshot%20from%202023-12-14%2022-42-46.png)
-![Screenshot](/../Screenshot%20from%202023-12-14%2022-43-10.png)
-![Screenshot](/../Screenshot%20from%202023-12-14%2022-43-14.png)
+## Demo
+
+![Screenshot from 2023-12-14 22-42-38](https://github.com/vipin018/Rock-Paper-Scissor/assets/126965441/a1954b95-4e90-4b35-a6f3-277ed20d9f94)
+
+![Screenshot from 2023-12-14 22-42-46](https://github.com/vipin018/Rock-Paper-Scissor/assets/126965441/1f99a133-d00b-4e56-8006-a585a106a15a)
+
+![Screenshot from 2023-12-14 22-43-10](https://github.com/vipin018/Rock-Paper-Scissor/assets/126965441/e96bea08-2724-442e-ae88-067a3483dffb)
+
+![Screenshot from 2023-12-14 22-53-06](https://github.com/vipin018/Rock-Paper-Scissor/assets/126965441/e1ea3b5c-bc2d-41d2-9c07-3c64455c466a)
