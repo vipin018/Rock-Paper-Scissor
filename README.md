@@ -16,3 +16,20 @@
 ![Screenshot from 2023-12-14 22-43-10](https://github.com/vipin018/Rock-Paper-Scissor/assets/126965441/e96bea08-2724-442e-ae88-067a3483dffb)
 
 ![Screenshot from 2023-12-14 22-53-06](https://github.com/vipin018/Rock-Paper-Scissor/assets/126965441/e1ea3b5c-bc2d-41d2-9c07-3c64455c466a)
+
+## Installation
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/vipin018/Rock-Paper-Scissor.git
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
+
+### How to Contribute
+
+- Found a bug or have a feature request? Please open an issue to let us know.
+- Want to fix an issue or add a new feature? Fork the repository and create a pull request.
+
+  
