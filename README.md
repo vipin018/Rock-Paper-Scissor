@@ -20,8 +20,11 @@
 ## Installation
 1. Clone the repository:
 
+
    ```sh
    git clone https://github.com/vipin018/Rock-Paper-Scissor.git
+
+2. Open the index.html file in your browser or go live.
 
 ## Contributing
 
